@@ -63,3 +63,16 @@
 
 - Wang, Hui, Wei Tsang Ooi, and Mun Choon Chan. "JurCast: Joint user and rate allocation for video multicast over multiple APs." IEEE INFOCOM 2016-The 35th Annual IEEE International Conference on Computer Communications. IEEE, 2016.
 
+- Ray, Devdeep, et al. "Vantage: optimizing video upload for time-shifted viewing of social live streams." Proceedings of the ACM Special Interest Group on Data Communication. 2019. 380-393.
+
+- Guan, Yu, et al. "Pano: Optimizing 360 video streaming with a better understanding of quality perception." Proceedings of the ACM Special Interest Group on Data Communication. 2019. 394-407.
+
+- Nathan, Vikram, et al. "End-to-end transport for video QoE fairness." Proceedings of the ACM Special Interest Group on Data Communication. 2019. 408-423.
+
+- Marinos, Ilias, et al. "Disk| Crypt| Net: rethinking the stack for high-performance video streaming." Proceedings of the Conference of the ACM Special Interest Group on Data Communication. 2017.
+
+- Sun, Yi, et al. "CS2P: Improving video bitrate selection and adaptation with data-driven throughput prediction." Proceedings of the 2016 ACM SIGCOMM Conference. 2016.
+
+- Yin, Xiaoqi, et al. "A control-theoretic approach for dynamic adaptive video streaming over HTTP." Proceedings of the 2015 ACM Conference on Special Interest Group on Data Communication. 2015.
+
+- Spiteri, Kevin, Ramesh Sitaraman, and Daniel Sparacio. "From theory to practice: Improving bitrate adaptation in the DASH reference player." ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 15.2s (2019): 1-29. 
