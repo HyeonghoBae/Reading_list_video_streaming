@@ -1,6 +1,5 @@
 # Reading_list_Video_streaming
-## Video streaming readling list
-
+## Video streaming
 - Mao, Hongzi, Ravi Netravali, and Mohammad Alizadeh. "Neural adaptive video streaming with pensieve." Proceedings of the Conference of the ACM Special Interest Group on Data Communication. 2017.
 
 - Qin, Yanyuan, et al. "A control theoretic approach to ABR video streaming: A fresh look at PID-based rate adaptation." IEEE Transactions on Mobile Computing (2019).
@@ -76,3 +75,7 @@
 - Yin, Xiaoqi, et al. "A control-theoretic approach for dynamic adaptive video streaming over HTTP." Proceedings of the 2015 ACM Conference on Special Interest Group on Data Communication. 2015.
 
 - Spiteri, Kevin, Ramesh Sitaraman, and Daniel Sparacio. "From theory to practice: Improving bitrate adaptation in the DASH reference player." ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 15.2s (2019): 1-29. 
+
+
+## 360 ° Video streaming
+- Fan, Ching-Ling, et al. "A survey on 360 video streaming: Acquisition, transmission, and display." ACM Computing Surveys (CSUR) 52.4 (2019): 1-36.
