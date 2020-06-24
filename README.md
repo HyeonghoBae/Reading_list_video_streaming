@@ -64,8 +64,6 @@
 
 - Ray, Devdeep, et al. "Vantage: optimizing video upload for time-shifted viewing of social live streams." Proceedings of the ACM Special Interest Group on Data Communication. 2019. 380-393.
 
-- Guan, Yu, et al. "Pano: Optimizing 360 video streaming with a better understanding of quality perception." Proceedings of the ACM Special Interest Group on Data Communication. 2019. 394-407.
-
 - Nathan, Vikram, et al. "End-to-end transport for video QoE fairness." Proceedings of the ACM Special Interest Group on Data Communication. 2019. 408-423.
 
 - Marinos, Ilias, et al. "Disk| Crypt| Net: rethinking the stack for high-performance video streaming." Proceedings of the Conference of the ACM Special Interest Group on Data Communication. 2017.
@@ -79,3 +77,6 @@
 
 ## 360 ° Video streaming
 - Fan, Ching-Ling, et al. "A survey on 360 video streaming: Acquisition, transmission, and display." ACM Computing Surveys (CSUR) 52.4 (2019): 1-36.
+
+- Guan, Yu, et al. "Pano: Optimizing 360 video streaming with a better understanding of quality perception." Proceedings of the ACM Special Interest Group on Data Communication. 2019. 394-407.
+
