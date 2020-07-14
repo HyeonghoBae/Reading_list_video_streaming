@@ -24,7 +24,6 @@
 
 - Elgabli, Anis, Ke Liu, and Vaneet Aggarwal. "Optimized preference-aware multi-path video streaming with scalable video coding." IEEE Transactions on Mobile Computing 19.1 (2018): 159-172.
 
-- Fu, Jun, et al. "360SRL: A Sequential Reinforcement Learning Approach for ABR Tile-Based 360 Video Streaming." 2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019.
 
 - Gao, Lin, et al. "Multi-user cooperative mobile video streaming: Performance analysis and online mechanism design." IEEE Transactions on Mobile Computing 18.2 (2018): 376-389.
 
@@ -34,19 +33,15 @@
 
 - Gao, Guanyu, et al. "Optimizing quality of experience for adaptive bitrate streaming via viewer interest inference." IEEE Transactions on Multimedia 20.12 (2018): 3399-3413.
 
-- Qian, Feng, et al. "Flare: Practical viewport-adaptive 360-degree video streaming for mobile devices." Proceedings of the 24th Annual International Conference on Mobile Computing and Networking. 2018.
 
 - Kim, Seohyang, and Chongkwon Kim. "XMAS: An efficient mobile adaptive streaming scheme based on traffic shaping." IEEE Transactions on Multimedia 21.2 (2018): 442-456.
 
-- Zhou, Chao, Mengbai Xiao, and Yao Liu. "Clustile: Toward minimizing bandwidth in 360-degree video streaming." IEEE INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 
 - CBA: Contextual Quality Adaptation for Adaptive Bitrate Video Streaming
 
-- Zhang, Yuanxing, et al. "DRL360: 360-degree Video Streaming with Deep Reinforcement Learning." IEEE INFOCOM 2019-IEEE Conference on Computer Communications. IEEE, 2019.
 
 - Park, Kyoungjun, and Myungchul Kim. "EVSO: Environment-aware Video Streaming Optimization of Power Consumption." IEEE INFOCOM 2019-IEEE Conference on Computer Communications. IEEE, 2019.
 
-- Pang, Haitian, et al. "Towards Low Latency Multi-viewpoint 360° Interactive Video: A Multimodal Deep Reinforcement Learning Approach." IEEE INFOCOM 2019-IEEE Conference on Computer Communications. IEEE, 2019.
 
 - Qin, Yanyuan, et al. "A control theoretic approach to ABR video streaming: A fresh look at PID-based rate adaptation." IEEE Transactions on Mobile Computing (2019).
 
@@ -79,4 +74,16 @@
 - Fan, Ching-Ling, et al. "A survey on 360 video streaming: Acquisition, transmission, and display." ACM Computing Surveys (CSUR) 52.4 (2019): 1-36.
 
 - Guan, Yu, et al. "Pano: Optimizing 360 video streaming with a better understanding of quality perception." Proceedings of the ACM Special Interest Group on Data Communication. 2019. 394-407.
+
+- Dasari, Mallesham, et al. "Streaming 360-Degree Videos Using Super-Resolution."
+
+- Qian, Feng, et al. "Flare: Practical viewport-adaptive 360-degree video streaming for mobile devices." Proceedings of the 24th Annual International Conference on Mobile Computing and Networking. 2018.
+
+- Zhang, Yuanxing, et al. "DRL360: 360-degree Video Streaming with Deep Reinforcement Learning." IEEE INFOCOM 2019-IEEE Conference on Computer Communications. IEEE, 2019.
+
+- Pang, Haitian, et al. "Towards Low Latency Multi-viewpoint 360° Interactive Video: A Multimodal Deep Reinforcement Learning Approach." IEEE INFOCOM 2019-IEEE Conference on Computer Communications. IEEE, 2019.
+
+- Fu, Jun, et al. "360SRL: A Sequential Reinforcement Learning Approach for ABR Tile-Based 360 Video Streaming." 2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019.
+
+- Zhou, Chao, Mengbai Xiao, and Yao Liu. "Clustile: Toward minimizing bandwidth in 360-degree video streaming." IEEE INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 
