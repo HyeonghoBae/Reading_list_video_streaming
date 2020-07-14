@@ -69,6 +69,9 @@
 
 - Spiteri, Kevin, Ramesh Sitaraman, and Daniel Sparacio. "From theory to practice: Improving bitrate adaptation in the DASH reference player." ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 15.2s (2019): 1-29. 
 
+- Stick: A Harmonious Fusion of Buffer-based and Learning-based Approach for Adaptive Streaming
+Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
+INFOCOM 2020.
 
 ## 360 ° Video streaming
 - Fan, Ching-Ling, et al. "A survey on 360 video streaming: Acquisition, transmission, and display." ACM Computing Surveys (CSUR) 52.4 (2019): 1-36.
